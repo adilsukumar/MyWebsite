@@ -25,7 +25,16 @@ Check out the live website here: [https://adilsukumar.github.io/MyWebsite]
 - HTML5
 - CSS3
 - JavaScript
-- GitHub Pages (for hosting)
+- GitHub Pages for Hosting
 
 ---
 
+📬 Contact
+
+📧 Email: adilsukumar24@gmail.com
+💼 LinkedIn: www.linkedin.com/in/adilsukumar
+🐱 GitHub: www.github.com/adilsukumar
+🌐 Portfolio: www.adilsukumar.github.io/MyWebsite
+
+
+Made with ❤️ and ☕ by Adil Sukumar
