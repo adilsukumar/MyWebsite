@@ -35,7 +35,7 @@ Check out the live website here: [https://adilsukumar.github.io/MyWebsite]
 📧 Email: adilsukumar24@gmail.com
 💼 LinkedIn: www.linkedin.com/in/adilsukumar
 🐱 GitHub: www.github.com/adilsukumar
-🌐 Portfolio: www.adilsukumar.github.io/MyWebsite
+🌐 Portfolio: adilsukumar.github.io/MyWebsite
 
 
 Made with ❤️ and ☕ by Adil Sukumar
