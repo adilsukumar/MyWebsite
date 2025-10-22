@@ -6,19 +6,17 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 ## 🌐 Live Demo
 
-Check out the live website here: [https://adilsukumar.github.io/mywebsite](https://adilsukumar.github.io/mywebsite)
-
-![Website Screenshot](screenshot.png)
+Check out the live website here: [https://adilsukumar.github.io/MyWebsite]
 
 ---
 
 ## ✨ Features
 
 - About Me section
-- Portfolio / Projects gallery
-- Contact form
-- Responsive design (mobile-friendly)
-- Smooth scrolling navigation
+- What I do
+- Who I am
+- Things I've built
+- Contact Me
 
 ---
 
@@ -28,14 +26,6 @@ Check out the live website here: [https://adilsukumar.github.io/mywebsite](https
 - CSS3
 - JavaScript
 - GitHub Pages (for hosting)
-- Optional: Bootstrap, Font Awesome, or other libraries if used
 
 ---
 
-## 🚀 Installation / Setup
-
-To run the website locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
