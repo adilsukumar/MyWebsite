@@ -24,6 +24,7 @@ Check out the live website here: [https://adilsukumar.github.io/MyWebsite]
 
 - HTML5
 - CSS3
+- SCSS
 - JavaScript
 - GitHub Pages for Hosting
 
